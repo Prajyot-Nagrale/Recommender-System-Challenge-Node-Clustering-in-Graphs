@@ -1,0 +1,2 @@
+# Recommender-System-Challenge-Node-Clustering-in-Graphs
+There is rich semi-structured data on social media platforms. This dataset for this task is collected from an online photo-sharing social media platform Flickr. People share photos with others on Flickr and make connections (friends). The task is to recommend a list of items (photos) to each user given rich information on this social media platform.
